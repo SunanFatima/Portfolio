@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
-
+<br/>
+<hr/>
+<br/>
 <br/>
 I'm a biomedical engineer with a passion for numbers. While in graduate school I study mathematical modeling to understand the mechanisms of cancer growth and immunotherapy. I love the creativity involved in translating biological concepts into quantitive models and data analysis.  I'll be posting various case studies from classes as well as some original projects as I learn and explore.  When I'm not coding I'm out exploring my city's food scene.
 
