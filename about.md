@@ -21,6 +21,6 @@ I'm a biomedical engineer with a passion for numbers. While in graduate school I
 </span>
 
 <div class="col three caption">
-	Let's Connect!
+	let's connect!
 </div>
 
